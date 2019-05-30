@@ -1,6 +1,6 @@
 # I Love Works
 
-[visit site](https://ilove.works)
+[visit site]()
 
 ## Deploy on your github pages
 
